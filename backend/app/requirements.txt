@@ -7,3 +7,6 @@ python-dotenv
 passlib[bcrypt]
 python-jose
 pydantic[email]
+beautifulsoup4
+requests
+
