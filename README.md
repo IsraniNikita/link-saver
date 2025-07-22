@@ -68,7 +68,7 @@ npm start
 ## 📸 Screenshot
 
 screenshot1:<img width="577" height="162" alt="Image" src="https://github.com/user-attachments/assets/4436ac19-b9fe-4c86-b4a8-134912ce1bec" />
-screenshot2:
+screenshot2:<img width="584" height="188" alt="Image" src="https://github.com/user-attachments/assets/04ba1c77-4879-429e-84cd-2380855a61ff" />
 screenshot3:<img width="1010" height="533" alt="Image" src="https://github.com/user-attachments/assets/8d7cdab6-195c-41d7-92de-7eaa567fa5df" />
 
 ---
