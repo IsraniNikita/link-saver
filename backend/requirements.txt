@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-pymongo
-dnspython
-requests
-python-dotenv
-passlib[bcrypt]
-python-jose
