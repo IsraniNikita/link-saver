@@ -95,19 +95,3 @@ screenshot3:
 
 ---
 
-## 📚 Folder Structure
-
-link-saver/
-
-├── backend/
-← FastAPI + MongoDB (auth + API)
-│   ├── app/
-
-│   │   ├── main.py
-│   │   ├── models.py
-│   │   ├── routes/
-│   │   └── auth.py, bookmarks.py
-├── frontend/         ← React frontend (login, save, view, delete)
-│   └── src/
-│       └── pages, components, api/
-├── README.md
